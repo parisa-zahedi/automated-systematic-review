@@ -1,5 +1,5 @@
 # Automated Systematic Review
-
+[![DOI](https://sandbox.zenodo.org/badge/172735806.svg)](https://handle.test.datacite.org/10.5072/zenodo.439282)
 *This project is work in progress and **not** production ready.*
 
 Systematic Reviews are “top of the bill” in research. The number of systematic
